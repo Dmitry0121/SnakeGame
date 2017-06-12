@@ -1,0 +1,5 @@
+/home/dima/work/ovno/Snake/Snake/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dima/work/ovno/Snake/Snake/bin/Debug/Snake.exe.mdb
+/home/dima/work/ovno/Snake/Snake/bin/Debug/Snake.exe
+/home/dima/work/ovno/Snake/Snake/obj/x86/Debug/Snake.exe
+/home/dima/work/ovno/Snake/Snake/obj/x86/Debug/Snake.exe.mdb
